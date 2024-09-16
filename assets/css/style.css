@@ -71,3 +71,19 @@ h1 {
 .show {
     display: block;
 }
+
+/*Agregados Andreina*/
+
+.link{
+    text-decoration: none;
+}
+.menu1{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+}
+.imagen{
+    border-radius: 7px;
+    border: 1px solid black;
+}
